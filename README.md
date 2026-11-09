@@ -48,3 +48,8 @@ Muse の「写真」チャットで要約した内容をまとめたもの。
 
 ### 2026-11-07
 26. [本物の光じゃない、作る光（@haphann96）](notes/2026-11-07-built-light-runner.md)
+
+### 2026-11-08
+27. [LET THE REEF FADE：サンゴを沈めてダイバーを前に出す（@number_3_0_2）](notes/2026-11-08-let-the-reef-fade.md)
+28. [AI画像用ライティング・プロンプト24種（@aicenturystudios）](notes/2026-11-08-ai-lighting-prompts-24.md)
+29. [DaVinci PowerGrade「Cinematic Look 01」作例（@tomasrodriguezph）](notes/2026-11-08-cinematic-look-powergrade.md)
